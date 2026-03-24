@@ -166,7 +166,7 @@ wget -O output.mp3 "https://vps-xxxxx.ytconvert.org/stream/xxx?token=xxx"
 
 ## ⚠️ Catatan
 
-- Script ini menggunakan API dari `hub.ytconvert.org`
+- Script ini menggunakan API dari `snakeloader.com`
 - Download video YouTube mungkin melanggar Terms of Service YouTube
 - Gunakan hanya untuk konten yang Anda miliki atau memiliki izin untuk download
 - Koneksi internet diperlukan untuk mengakses API
