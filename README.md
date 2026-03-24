@@ -1,6 +1,6 @@
 # YT Scraper - YouTube Downloader
 
-Node.js script untuk download video dan audio dari YouTube menggunakan API `hub.ytconvert.org`.
+Node.js script untuk download video dan audio dari YouTube menggunakan API `snakeloader.com`.
 
 ## 📋 Fitur
 
